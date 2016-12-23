@@ -1,0 +1,10 @@
+body {
+text-align: center;
+fontfamily: sans-serif;
+color: #262626;
+background: #ffffff;
+background: -moz-linear-gradient(top, #ffffff 0%, #cccccc 100%);
+background: -webkit-linear-gradient(top, #ffffff 0%,#cccccc 100%);
+background: linear-gradient(to bottom, #ffffff 0%,#cccccc 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#cccccc',GradientType=0 );
+}
